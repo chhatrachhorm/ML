@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+
 # numpy is a mathematics library of python
 # matplotlib.pyplot is a graphics library
 # types of dogs - population

@@ -2,6 +2,7 @@
   <dictionary name="chhat">
     <words>
       <w>matplotlib</w>
+      <w>neightbor</w>
       <w>pyplot</w>
       <w>srcappy</w>
     </words>
